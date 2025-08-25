@@ -1,6 +1,6 @@
 # Stochastic Gradient MCMC for Nonlinear SSMs
 
-This repo contains the python code for stochastic gradient MCMC in state space models for the following paper: ["Stochastic Gradient MCMC for Nonlinear SSMs"](https://arxiv.org/abs/1901.10568).
+This repo contains the python code for stochastic gradient MCMC in state space models for the following paper that we implemented for our course project requirements for the course MTH422 - Bayesian Analysis: ["Stochastic Gradient MCMC for Nonlinear SSMs"](https://arxiv.org/abs/1901.10568).
 
 ## Overview
 
